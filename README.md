@@ -18,8 +18,7 @@ Retail analytics project for a UK e-commerce business. Delivered customer segmen
 Capstone marketing strategy project analyzing survey data to segment gamers, model behavior, and conduct pricing analysis using the Gabor-Granger method. Recommended "Seraph Guardians" at $32 based on market fit and revenue projections.
 
 **[Healthcare Analytics Dashboard](https://github.com/muhammadadil609/Healthcare-Analytics-Dashboard)**  
-Interactive Tableau dashboard built on a real-world healthcare dataset. Visualized patient admissions, diagnosis trends, and department-level metrics to derive operational insights and track KPIs like average length of stay and bed occupancy.  
-[View on Tableau Public](https://public.tableau.com/app/profile/muhammad.adil5880/viz/HealthcareAnalyticsDashboard_17445298078480/TrendsDiseasesDashboard?publish=yes)
+Interactive Tableau dashboard built on a real-world healthcare dataset. Visualized patient admissions, diagnosis trends, and department-level metrics to derive operational insights and track KPIs like average length of stay and bed occupancy. [View on Tableau Public](https://public.tableau.com/app/profile/muhammad.adil5880/viz/HealthcareAnalyticsDashboard_17445298078480/TrendsDiseasesDashboard?publish=yes)
 
 
 ---
